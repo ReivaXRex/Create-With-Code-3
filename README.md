@@ -1,4 +1,5 @@
 # Create With Code 3
+#### Concepts and Skills Learnt across the Lessons
 - Use GameObject.Find and GetComponent to manipulate the components of the current or other game objects
 - Tweak the gravity of your project with Physics.gravity and use ForceModes to apply forces in different ways
 - Utilize new operators like “&&” and bool variables to better control game logic
